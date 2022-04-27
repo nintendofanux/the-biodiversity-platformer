@@ -1,5 +1,7 @@
  
 
+## Made by, Shaurya Vardhan, Tejas Anand, Harimadhav Jayakrishnan Nair, Burhanuddin Mustansir Khatumdiwala, and Arav  Narang
+
 
 > Open this page at [https://nintendofanux.github.io/the-biodiversity-platformer/](https://nintendofanux.github.io/the-biodiversity-platformer/)
 
